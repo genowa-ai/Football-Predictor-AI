@@ -1,0 +1,645 @@
+api_name,csv_name,league,confidence
+Standard,Standard,B1,100
+Lierse,Lierse,B1,100
+Waregem,Waregem,B1,100
+Club Brugge,Club Brugge,B1,100
+Westerlo,Westerlo,B1,100
+Anderlecht,Anderlecht,B1,100
+Kortrijk,Kortrijk,B1,100
+Genk,Genk,B1,100
+St Truiden,St Truiden,B1,100
+Charleroi,Charleroi,B1,100
+Gent,Gent,B1,100
+Cercle Brugge,Cercle Brugge,B1,100
+Eupen,Eupen,B1,100
+Lokeren,Lokeren,B1,100
+Mechelen,Mechelen,B1,100
+Germinal,Germinal,B1,100
+FC Koln,FC Koln,D1,100
+Werder Bremen,Werder Bremen,D1,100
+Kaiserslautern,Kaiserslautern,D1,100
+Nurnberg,Nurnberg,D1,100
+Leverkusen,Leverkusen,D1,100
+Stuttgart,Stuttgart,D1,100
+Hamburg,Hamburg,D1,100
+Ein Frankfurt,Ein Frankfurt,D1,100
+Hoffenheim,Hoffenheim,D1,100
+Dortmund,Dortmund,D1,100
+St Pauli,St Pauli,D1,100
+Schalke 04,Schalke 04,D1,100
+Mainz,Mainz,D1,100
+M'gladbach,M'gladbach,D1,100
+Freiburg,Freiburg,D1,100
+Hannover,Hannover,D1,100
+Wolfsburg,Wolfsburg,D1,100
+Bayern Munich,Bayern Munich,D1,100
+Duisburg,Duisburg,D2,100
+Munich 1860,Munich 1860,D2,100
+Paderborn,Paderborn,D2,100
+Greuther Furth,Greuther Furth,D2,100
+Augsburg,Augsburg,D2,100
+Ingolstadt,Ingolstadt,D2,100
+Erzgebirge Aue,Erzgebirge Aue,D2,100
+Osnabruck,Osnabruck,D2,100
+Fortuna Dusseldorf,Fortuna Dusseldorf,D2,100
+Cottbus,Cottbus,D2,100
+Bochum,Bochum,D2,100
+Frankfurt FSV,Frankfurt FSV,D2,100
+Oberhausen,Oberhausen,D2,100
+Hertha,Hertha,D2,100
+Bielefeld,Bielefeld,D2,100
+Union Berlin,Union Berlin,D2,100
+Karlsruhe,Karlsruhe,D2,100
+Aachen,Aachen,D2,100
+Everton,Everton,E0,100
+Newcastle,Newcastle,E0,100
+Blackpool,Blackpool,E0,100
+Chelsea,Chelsea,E0,100
+Tottenham,Tottenham,E0,100
+Stoke,Stoke,E0,100
+Blackburn,Blackburn,E0,100
+Liverpool,Liverpool,E0,100
+Man United,Man United,E0,100
+Aston Villa,Aston Villa,E0,100
+Man City,Man City,E0,100
+West Ham,West Ham,E0,100
+Wolves,Wolves,E0,100
+Fulham,Fulham,E0,100
+Sunderland,Sunderland,E0,100
+West Brom,West Brom,E0,100
+Bolton,Bolton,E0,100
+Arsenal,Arsenal,E0,100
+Wigan,Wigan,E0,100
+Birmingham,Birmingham,E0,100
+Swansea,Swansea,E1,100
+Sheffield United,Sheffield United,E1,100
+Watford,Watford,E1,100
+Hull,Hull,E1,100
+Norwich,Norwich,E1,100
+Coventry,Coventry,E1,100
+Burnley,Burnley,E1,100
+Leeds,Leeds,E1,100
+Portsmouth,Portsmouth,E1,100
+Millwall,Millwall,E1,100
+Reading,Reading,E1,100
+QPR,QPR,E1,100
+Nott'm Forest,Nott'm Forest,E1,100
+Crystal Palace,Crystal Palace,E1,100
+Doncaster,Doncaster,E1,100
+Derby,Derby,E1,100
+Bristol City,Bristol City,E1,100
+Leicester,Leicester,E1,100
+Scunthorpe,Scunthorpe,E1,100
+Middlesbrough,Middlesbrough,E1,100
+Ipswich,Ipswich,E1,100
+Preston,Preston,E1,100
+Cardiff,Cardiff,E1,100
+Barnsley,Barnsley,E1,100
+Plymouth,Plymouth,E2,100
+Milton Keynes Dons,Milton Keynes Dons,E2,100
+Leyton Orient,Leyton Orient,E2,100
+Colchester,Colchester,E2,100
+Southampton,Southampton,E2,100
+Brighton,Brighton,E2,100
+Hartlepool,Hartlepool,E2,100
+Tranmere,Tranmere,E2,100
+Oldham,Oldham,E2,100
+Rochdale,Rochdale,E2,100
+Huddersfield,Huddersfield,E2,100
+Peterboro,Peterboro,E2,100
+Dag and Red,Dag and Red,E2,100
+Walsall,Walsall,E2,100
+Exeter,Exeter,E2,100
+Yeovil,Yeovil,E2,100
+Bournemouth,Bournemouth,E2,100
+Swindon,Swindon,E2,100
+Carlisle,Carlisle,E2,100
+Notts County,Notts County,E2,100
+Bristol Rvs,Bristol Rvs,E2,100
+Sheffield Weds,Sheffield Weds,E2,100
+Charlton,Charlton,E2,100
+Brentford,Brentford,E2,100
+Burton,Burton,E3,100
+Bradford,Bradford,E3,100
+Crewe,Crewe,E3,100
+Cheltenham,Cheltenham,E3,100
+Hereford,Hereford,E3,100
+Stevenage,Stevenage,E3,100
+Barnet,Barnet,E3,100
+Torquay,Torquay,E3,100
+Southend,Southend,E3,100
+Morecambe,Morecambe,E3,100
+Port Vale,Port Vale,E3,100
+Chesterfield,Chesterfield,E3,100
+Shrewsbury,Shrewsbury,E3,100
+Northampton,Northampton,E3,100
+Accrington,Accrington,E3,100
+Macclesfield,Macclesfield,E3,100
+Rotherham,Rotherham,E3,100
+Lincoln,Lincoln,E3,100
+Stockport,Stockport,E3,100
+Wycombe,Wycombe,E3,100
+Gillingham,Gillingham,E3,100
+Aldershot,Aldershot,E3,100
+Oxford,Oxford,E3,100
+Bury,Bury,E3,100
+Fleetwood Town,Fleetwood Town,EC,100
+Rushden & D,Rushden & D,EC,100
+Crawley Town,Crawley Town,EC,100
+Altrincham,Altrincham,EC,100
+Kidderminster,Kidderminster,EC,100
+AFC Wimbledon,AFC Wimbledon,EC,100
+Southport,Southport,EC,100
+York,York,EC,100
+Histon,Histon,EC,100
+Luton,Luton,EC,100
+Forest Green,Forest Green,EC,100
+Newport County,Newport County,EC,100
+Kettering Town,Kettering Town,EC,100
+Bath City,Bath City,EC,100
+Wrexham,Wrexham,EC,100
+Gateshead,Gateshead,EC,100
+Barrow,Barrow,EC,100
+Darlington,Darlington,EC,100
+Grimsby,Grimsby,EC,100
+Hayes & Yeading,Hayes & Yeading,EC,100
+Eastbourne Borough,Eastbourne Borough,EC,100
+Mansfield,Mansfield,EC,100
+Cambridge,Cambridge,EC,100
+Tamworth,Tamworth,EC,100
+Lille,Lille,F1,100
+Paris SG,Paris SG,F1,100
+Brest,Brest,F1,100
+Caen,Caen,F1,100
+Toulouse,Toulouse,F1,100
+Lorient,Lorient,F1,100
+Arles,Arles,F1,100
+Sochaux,Sochaux,F1,100
+Bordeaux,Bordeaux,F1,100
+Nice,Nice,F1,100
+Lens,Lens,F1,100
+Valenciennes,Valenciennes,F1,100
+Lyon,Lyon,F1,100
+Rennes,Rennes,F1,100
+Monaco,Monaco,F1,100
+Montpellier,Montpellier,F1,100
+Auxerre,Auxerre,F1,100
+St Etienne,St Etienne,F1,100
+Marseille,Marseille,F1,100
+Chateauroux,Chateauroux,F2,100
+Le Mans,Le Mans,F2,100
+Sedan,Sedan,F2,100
+Reims,Reims,F2,100
+Le Havre,Le Havre,F2,100
+Evian Thonon Gaillard,Evian Thonon Gaillard,F2,100
+Istres,Istres,F2,100
+Nantes,Nantes,F2,100
+Nimes,Nimes,F2,100
+Clermont,Clermont,F2,100
+Vannes,Vannes,F2,100
+Grenoble,Grenoble,F2,100
+Laval,Laval,F2,100
+Boulogne,Boulogne,F2,100
+Dijon,Dijon,F2,100
+Angers,Angers,F2,100
+Troyes,Troyes,F2,100
+Metz,Metz,F2,100
+Ajaccio,Ajaccio,F2,100
+Tours,Tours,F2,100
+Atromitos,Atromitos,G1,100
+Ergotelis,Ergotelis,G1,100
+Aris,Aris,G1,100
+Panserraikos,Panserraikos,G1,100
+Asteras Tripolis,Asteras Tripolis,G1,100
+Olympiakos Volou,Olympiakos Volou,G1,100
+Kavala,Kavala,G1,100
+Kerkyra,Kerkyra,G1,100
+Larisa,Larisa,G1,100
+Xanthi,Xanthi,G1,100
+Panathinaikos,Panathinaikos,G1,100
+Iraklis,Iraklis,G1,100
+PAOK,PAOK,G1,100
+Olympiakos,Olympiakos,G1,100
+Panionios,Panionios,G1,100
+AEK,AEK,G1,100
+Inter,Inter,I1,100
+Chievo,Chievo,I1,100
+Lazio,Lazio,I1,100
+Catania,Catania,I1,100
+Genoa,Genoa,I1,100
+Parma,Parma,I1,100
+Bologna,Bologna,I1,100
+Cesena,Cesena,I1,100
+Bari,Bari,I1,100
+Cagliari,Cagliari,I1,100
+Palermo,Palermo,I1,100
+Sampdoria,Sampdoria,I1,100
+Lecce,Lecce,I1,100
+Fiorentina,Fiorentina,I1,100
+Brescia,Brescia,I1,100
+Napoli,Napoli,I1,100
+Milan,Milan,I1,100
+Juventus,Juventus,I1,100
+Udinese,Udinese,I1,100
+Roma,Roma,I1,100
+Empoli,Empoli,I2,100
+Sassuolo,Sassuolo,I2,100
+Cittadella,Cittadella,I2,100
+Albinoleffe,Albinoleffe,I2,100
+Reggina,Reggina,I2,100
+Piacenza,Piacenza,I2,100
+Padova,Padova,I2,100
+Siena,Siena,I2,100
+Vicenza,Vicenza,I2,100
+Grosseto,Grosseto,I2,100
+Crotone,Crotone,I2,100
+Portogruaro,Portogruaro,I2,100
+Torino,Torino,I2,100
+Varese,Varese,I2,100
+Atalanta,Atalanta,I2,100
+Ascoli,Ascoli,I2,100
+Pescara,Pescara,I2,100
+Novara,Novara,I2,100
+Triestina,Triestina,I2,100
+Modena,Modena,I2,100
+Frosinone,Frosinone,I2,100
+Livorno,Livorno,I2,100
+NAC Breda,NAC Breda,N1,100
+Ajax,Ajax,N1,100
+Excelsior,Excelsior,N1,100
+Heracles,Heracles,N1,100
+Willem II,Willem II,N1,100
+Groningen,Groningen ,N1,100
+Graafschap,Graafschap,N1,100
+Groningen,Groningen,N1,100
+Nijmegen,Nijmegen,N1,100
+Feyenoord,Feyenoord,N1,100
+Roda,Roda,N1,100
+Ajax,Ajax ,N1,100
+VVV Venlo,VVV Venlo,N1,100
+Heracles,Heracles ,N1,100
+AZ Alkmaar,AZ Alkmaar,N1,100
+Graafschap,Graafschap ,N1,100
+Vitesse,Vitesse ,N1,100
+Heerenveen,Heerenveen,N1,100
+Willem II,Willem II ,N1,100
+Utrecht,Utrecht ,N1,100
+Roda,Roda ,N1,100
+Twente,Twente,N1,100
+Vitesse,Vitesse,N1,100
+Den Haag,Den Haag,N1,100
+Utrecht,Utrecht,N1,100
+Feyenoord,Feyenoord ,N1,100
+PSV Eindhoven,PSV Eindhoven,N1,100
+Porto,Porto,P1,100
+Nacional,Nacional,P1,100
+Guimaraes,Guimaraes,P1,100
+Maritimo,Maritimo,P1,100
+Setubal,Setubal,P1,100
+Olhanense,Olhanense,P1,100
+Portimonense,Portimonense,P1,100
+Sp Braga,Sp Braga,P1,100
+Pacos Ferreira,Pacos Ferreira,P1,100
+Benfica,Benfica,P1,100
+Leiria,Leiria,P1,100
+Sp Lisbon,Sp Lisbon,P1,100
+Rio Ave,Rio Ave,P1,100
+Academica,Academica,P1,100
+Naval,Naval,P1,100
+Beira Mar,Beira Mar,P1,100
+Kilmarnock,Kilmarnock,SC0,100
+Hibernian,Hibernian,SC0,100
+St Mirren,St Mirren,SC0,100
+Dundee United,Dundee United,SC0,100
+St Johnstone,St Johnstone,SC0,100
+Hamilton,Hamilton,SC0,100
+Inverness C,Inverness C,SC0,100
+Rangers,Rangers,SC0,100
+Motherwell,Motherwell,SC0,100
+Aberdeen,Aberdeen,SC0,100
+Celtic,Celtic,SC0,100
+Hearts,Hearts,SC0,100
+Queen of Sth,Queen of Sth,SC1,100
+Raith Rvs,Raith Rvs,SC1,100
+Partick,Partick,SC1,100
+Stirling,Stirling,SC1,100
+Morton,Morton,SC1,100
+Ross County,Ross County,SC1,100
+Dunfermline,Dunfermline,SC1,100
+Falkirk,Falkirk,SC1,100
+Dundee,Dundee,SC1,100
+Cowdenbeath,Cowdenbeath,SC1,100
+Airdrie Utd,Airdrie Utd,SC2,100
+Dumbarton,Dumbarton,SC2,100
+Forfar,Forfar,SC2,100
+Alloa,Alloa,SC2,100
+Brechin,Brechin,SC2,100
+Stenhousemuir,Stenhousemuir,SC2,100
+Ayr,Ayr,SC2,100
+Peterhead,Peterhead,SC2,100
+Livingston,Livingston,SC2,100
+East Fife,East Fife,SC2,100
+Elgin,Elgin,SC3,100
+Berwick,Berwick,SC3,100
+Annan Athletic,Annan Athletic,SC3,100
+Queens Park,Queens Park,SC3,100
+Arbroath,Arbroath,SC3,100
+Montrose,Montrose,SC3,100
+Clyde,Clyde,SC3,100
+Albion Rvs,Albion Rvs,SC3,100
+East Stirling,East Stirling,SC3,100
+Stranraer,Stranraer,SC3,100
+Valencia,Valencia,SP1,100
+Real Madrid,Real Madrid,SP1,100
+Villarreal,Villarreal,SP1,100
+Santander,Santander,SP1,100
+Osasuna,Osasuna,SP1,100
+Mallorca,Mallorca,SP1,100
+Getafe,Getafe,SP1,100
+Zaragoza,Zaragoza,SP1,100
+Hercules,Hercules,SP1,100
+Malaga,Malaga,SP1,100
+Sociedad,Sociedad,SP1,100
+Ath Bilbao,Ath Bilbao,SP1,100
+La Coruna,La Coruna,SP1,100
+Barcelona,Barcelona,SP1,100
+Almeria,Almeria,SP1,100
+Levante,Levante,SP1,100
+Ath Madrid,Ath Madrid,SP1,100
+Sevilla,Sevilla,SP1,100
+Sp Gijon,Sp Gijon,SP1,100
+Espanol,Espanol,SP1,100
+Betis,Betis,SP2,100
+Albacete,Albacete,SP2,100
+Gimnastic,Gimnastic,SP2,100
+Recreativo,Recreativo,SP2,100
+Granada,Granada,SP2,100
+Cartagena,Cartagena,SP2,100
+Valladolid,Valladolid,SP2,100
+Barcelona B,Barcelona B,SP2,100
+Ponferradina,Ponferradina,SP2,100
+Vallecano,Vallecano,SP2,100
+Alcorcon,Alcorcon,SP2,100
+Tenerife,Tenerife,SP2,100
+Numancia,Numancia,SP2,100
+Villarreal B,Villarreal B,SP2,100
+Salamanca,Salamanca,SP2,100
+Celta,Celta,SP2,100
+Las Palmas,Las Palmas,SP2,100
+Huesca,Huesca,SP2,100
+Xerez,Xerez,SP2,100
+Elche,Elche,SP2,100
+Cordoba,Cordoba,SP2,100
+Girona,Girona,SP2,100
+Bursaspor,Bursaspor,T1,100
+Gaziantepspor,Gaziantepspor,T1,100
+Kayserispor,Kayserispor,T1,100
+Konyaspor,Konyaspor,T1,100
+Karabukspor,Karabukspor,T1,100
+Eskisehirspor,Eskisehirspor,T1,100
+Trabzonspor,Trabzonspor,T1,100
+Fenerbahce,Fenerbahce,T1,100
+Manisaspor,Manisaspor,T1,100
+Sivasspor,Sivasspor,T1,100
+Antalyaspor,Antalyaspor,T1,100
+Buyuksehyr,Buyuksehyr,T1,100
+Ankaragucu,Ankaragucu,T1,100
+Bucaspor,Bucaspor,T1,100
+Kasimpasa,Kasimpasa,T1,100
+Besiktas,Besiktas,T1,100
+Genclerbirligi,Genclerbirligi,T1,100
+Galatasaray,Galatasaray,T1,100
+Bergen,Bergen,B1,100
+Oud-Heverlee Leuven,Oud-Heverlee Leuven,B1,100
+Hansa Rostock,Hansa Rostock,D2,100
+Braunschweig,Braunschweig,D2,100
+Dresden,Dresden,D2,100
+AFC Telford United,AFC Telford United,EC,100
+Ebbsfleet,Ebbsfleet,EC,100
+Braintree Town,Braintree Town,EC,100
+Alfreton Town,Alfreton Town,EC,100
+Bastia,Bastia,F2,100
+Guingamp,Guingamp,F2,100
+Amiens,Amiens,F2,100
+OFI,OFI,G1,100
+Giannina,Giannina,G1,100
+Levadeiakos,Levadeiakos,G1,100
+Panetolikos,Panetolikos,G1,100
+Doxa Dramas,Doxa Dramas,G1,100
+Juve Stabia,Juve Stabia,I2,100
+Nocerina,Nocerina,I2,100
+Verona,Verona,I2,100
+Gubbio,Gubbio,I2,100
+Waalwijk,Waalwijk,N1,100
+Gil Vicente,Gil Vicente,P1,100
+Feirense,Feirense,P1,100
+Feirense,Feirense ,P1,100
+Alcoyano,Alcoyano,SP2,100
+Sabadell,Sabadell,SP2,100
+Guadalajara,Guadalajara,SP2,100
+Murcia,Murcia,SP2,100
+Mersin Idman Yurdu,Mersin Idman Yurdu,T1,100
+Orduspor,Orduspor,T1,100
+Samsunspor,Samsunspor,T1,100
+Waasland-Beveren,Waasland-Beveren,B1,100
+Regensburg,Regensburg,D2,100
+Sandhausen,Sandhausen,D2,100
+Aalen,Aalen,D2,100
+Hyde United,Hyde United,EC,100
+Telford United,Telford United,EC,100
+Dartford,Dartford,EC,100
+Nuneaton Town,Nuneaton Town,EC,100
+Woking,Woking,EC,100
+Ajaccio GFCO,Ajaccio GFCO,F2,100
+Niort,Niort,F2,100
+Platanias,Platanias,G1,100
+Veria,Veria,G1,100
+Panthrakikos,Panthrakikos,G1,100
+Spezia,Spezia,I2,100
+Virtus Lanciano,Virtus Lanciano,I2,100
+Ternana,Ternana,I2,100
+Pro Vercelli,Pro Vercelli,I2,100
+Zwolle,Zwolle,N1,100
+Moreirense,Moreirense,P1,100
+Estoril,Estoril,P1,100
+Real Madrid B,Real Madrid B,SP2,100
+Mirandes,Mirandes,SP2,100
+Lugo,Lugo,SP2,100
+Elazigspor,Elazigspor,T1,100
+Akhisar Belediyespor,Akhisar Belediyespor,T1,100
+Oostende,Oostende,B1,100
+Salisbury,Salisbury,EC,100
+Welling United,Welling United,EC,100
+Halifax,Halifax,EC,100
+Chester,Chester,EC,100
+Creteil,Creteil,F2,100
+CA Bastia,CA Bastia,F2,100
+Nancy,Nancy,F2,100
+Kallonis,Kallonis,G1,100
+Apollon,Apollon,G1,100
+Avellino,Avellino,I2,100
+Latina,Latina,I2,100
+Carpi,Carpi,I2,100
+Trapani,Trapani,I2,100
+GO Ahead Eagles,Go Ahead Eagles,N1,100
+Cambuur,Cambuur,N1,100
+Belenenses,Belenenses,P1,100
+Arouca,Arouca,P1,100
+Jaen,Jaen,SP2,100
+Alaves,Alaves,SP2,100
+Eibar,Eibar,SP2,100
+Rizespor,Rizespor,T1,100
+Erciyesspor,Erciyesspor,T1,100
+Mouscron-Peruwelz,Mouscron-Peruwelz,B1,100
+RB Leipzig,RB Leipzig,D2,100
+Darmstadt,Darmstadt,D2,100
+Heidenheim,Heidenheim,D2,100
+Eastleigh,Eastleigh,EC,100
+Dover Athletic,Dover Athletic,EC,100
+Orleans,Orleans,F2,100
+Niki Volos,Niki Volos,G1,100
+Virtus Entella,Virtus Entella,I2,100
+Perugia,Perugia,I2,100
+Dordrecht,Dordrecht,N1,100
+Boavista,Boavista,P1,100
+Penafiel,Penafiel,P1,100
+Leganes,Leganes,SP2,100
+Llagostera,Llagostera,SP2,100
+Balikesirspor,Balikesirspor,T1,100
+Boreham Wood,Boreham Wood,EC,100
+Bromley,Bromley,EC,100
+Guiseley,Guiseley,EC,100
+Paris FC,Paris FC,F2,100
+Red Star,Red Star,F2,100
+Bourg Peronnas,Bourg Peronnas,F2,100
+Como,Como,I2,100
+Salernitana,Salernitana,I2,100
+Uniao Madeira,Uniao Madeira,P1,100
+Tondela,Tondela,P1,100
+Ath Bilbao B,Ath Bilbao B,SP2,100
+Oviedo,Oviedo,SP2,100
+Osmanlispor,Osmanlispor,T1,100
+Mouscron,Mouscron,B1,100
+Wurzburger Kickers,Wurzburger Kickers,D2,100
+Maidstone,Maidstone,EC,100
+North Ferriby,North Ferriby,EC,100
+Solihull,Solihull,EC,100
+Sutton,Sutton,EC,100
+Strasbourg,Strasbourg,F2,100
+Spal,Spal,I2,100
+Benevento,Benevento,I2,100
+Pisa,Pisa,I2,100
+Sparta Rotterdam,Sparta Rotterdam,N1,100
+Chaves,Chaves,P1,100
+Edinburgh City,Edinburgh City,SC3,100
+Cadiz,Cadiz,SP2,100
+UCAM Murcia,UCAM Murcia,SP2,100
+Reus Deportiu,Reus Deportiu,SP2,100
+Sevilla B,Sevilla B,SP2,100
+Alanyaspor,Alanyaspor,T1,100
+Adanaspor,Adanaspor,T1,100
+Antwerp,Antwerp,B1,100
+Holstein Kiel,Holstein Kiel,D2,100
+Fylde,Fylde,EC,100
+Maidenhead,Maidenhead,EC,100
+Quevilly Rouen,Quevilly Rouen,F2,100
+Lamia,Lamia,G1,100
+Cremonese,Cremonese,I2,100
+Venezia,Venezia,I2,100
+Foggia,Foggia,I2,100
+Aves,Aves,P1,100
+Leonesa,Leonesa,SP2,100
+Lorca,Lorca,SP2,100
+Goztep,Goztep,T1,100
+Yeni Malatyaspor,Yeni Malatyaspor,T1,100
+Magdeburg,Magdeburg,D2,100
+Havant & Waterlooville,Havant & Waterlooville,EC,100
+Salford,Salford,EC,100
+Harrogate,Harrogate,EC,100
+Beziers,Beziers,F2,100
+OFI Crete,OFI Crete,G1,100
+Cosenza,Cosenza,I2,100
+For Sittard,For Sittard,N1,100
+FC Emmen,FC Emmen,N1,100
+Santa Clara,Santa Clara,P1,100
+Extremadura UD,Extremadura UD,SP2,100
+Rayo Majadahonda,Rayo Majadahonda,SP2,100
+Erzurum BB,Erzurum BB,T1,100
+Wehen,Wehen,D2,100
+Chorley,Chorley,EC,100
+Rodez,Rodez,F2,100
+Chambly,Chambly,F2,100
+Volos NFC,Volos NFC,G1,100
+Pordenone,Pordenone,I2,100
+Famalicao,Famalicao,P1,100
+Cove Rangers,Cove Rangers,SC3,100
+Fuenlabrada,Fuenlabrada,SP2,100
+Gaziantep,Gaziantep,T1,100
+Denizlispor,Denizlispor,T1,100
+Beerschot VA,Beerschot VA,B1,100
+Kings Lynn,Kings Lynn,EC,95
+Weymouth,Weymouth,EC,100
+Wealdstone,Wealdstone,EC,100
+Dunkerque,Dunkerque,F2,100
+Pau FC,Pau FC,F2,100
+Monza,Monza,I2,100
+Reggiana,Reggiana,I2,100
+Farense,Farense,P1,100
+Logrones,Logrones,SP2,100
+Castellon,Castellon,SP2,100
+Hatayspor,Hatayspor,T1,100
+Karagumruk,Karagumruk,T1,100
+Seraing,Seraing,B1,100
+St. Gilloise,St. Gilloise,B1,100
+Ionikos,Ionikos,G1,100
+Alessandria,Alessandria,I2,100
+Vizela,Vizela,P1,100
+Kelty Hearts,Kelty Hearts,SC3,100
+Sociedad B,Sociedad B,SP2,100
+Burgos,Burgos,SP2,100
+Amorebieta,Amorebieta,SP2,100
+Ibiza,Ibiza,SP2,100
+Giresunspor,Giresunspor,T1,100
+Altay,Altay,T1,100
+Dorking,Dorking,EC,100
+Annecy,Annecy,F2,100
+Sudtirol,Sudtirol,I2,100
+Volendam,Volendam,N1,100
+Casa Pia,Casa Pia,P1,100
+FC Edinburgh,FC Edinburgh,SC2,100
+Bonnyrigg Rose,Bonnyrigg Rose,SC3,100
+Andorra,Andorra,SP2,100
+Umraniyespor,Umraniyespor,T1,100
+Istanbulspor,Istanbulspor,T1,100
+RWD Molenbeek,RWD Molenbeek,B1,100
+Elversberg,Elversberg,D2,100
+Oxford City,Oxford City,EC,100
+Concarneau,Concarneau,F2,100
+Kifisia,Kifisia,G1,100
+FeralpiSalo,FeralpiSalo,I2,100
+Catanzaro,Catanzaro,I2,100
+Lecco,Lecco,I2,100
+Almere City,Almere City,N1,100
+Estrela,Estrela,P1,100
+Spartans,Spartans,SC3,100
+Pendikspor,Pendikspor,T1,100
+Dender,Dender,B1,100
+Ulm,Ulm,D2,100
+PreuÃen MÃ¼nster,PreuÃen MÃ¼nster,D2,96
+Boston Utd,Boston Utd,EC,100
+Martigues,Martigues,F2,100
+Athens Kallithea,Athens Kallithea,G1,100
+Mantova,Mantova,I2,100
+Carrarese,Carrarese,I2,100
+AVS,AVS,P1,100
+Ceuta,Ceuta,SP2,100
+Cultural Leonesa,Cultural Leonesa,SP2,100
+Eyupspor,Eyupspor,T1,100
+Bodrumspor,Bodrumspor,T1,100
+RAAL La Louviere,RAAL La Louviere,B1,100
+Truro,Truro,EC,100
+Brackley Town,Brackley Town,EC,100
+Telstar,Telstar,N1,100
+Alverca,Alverca,P1,100
+East Kilbride,East Kilbride,SC3,100
+Kocaelispor,Kocaelispor,T1,100

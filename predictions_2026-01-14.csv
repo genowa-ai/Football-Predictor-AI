@@ -1,0 +1,6 @@
+Match,Tip,Conf,H_Win%,D_Win%,A_Win%,H_GF,A_GF,H_GA,A_GA,Odds,Value,Injuries,Status
+Den Bosch vs PSV Eindhoven,AWAY,78.8,7.0,14.0,79.0,1.0,3.2,1.0,1.2,,,,✅ BET
+Ferroviária vs Juventus,AWAY,66.9,11.0,22.0,67.0,0.0,1.2,0.0,1.0,,,,⚠️ RISK (Poisson)
+Olympiakos Piraeus vs PAOK,AWAY,64.8,13.0,22.0,65.0,2.33,2.0,0.33,1.8,,,,✅ BET
+AEK Athens FC vs OFI,HOME,62.7,63.0,25.0,12.0,3.5,0.8,1.0,2.2,,,,✅ BET
+Panathinaikos vs Aris Thessalonikis,HOME,61.7,62.0,24.0,14.0,1.6,0.5,1.0,1.5,,,,⚠️ RISK (Poisson)

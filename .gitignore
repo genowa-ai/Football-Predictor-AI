@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Data & Models
+# We keep raw data in SQL now, but ignore local model files if you don't want to push them
+models/*.pkl
+models/*.json
+
+# Logs
+*.log
+
+# System
+Thumbs.db
+.DS_Store
+
+# API Keys
+.env
